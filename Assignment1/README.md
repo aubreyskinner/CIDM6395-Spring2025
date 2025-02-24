@@ -40,7 +40,7 @@ Areas I need to improve:
 * Comfortable with basic SQL, but need to refine complex query-building
 
 ### Python
-<b>Sources Consulted:</b> I have taken action towards gaining proficiency and completed the DataCamp course Finance Fundamentals in Python. A certificate can be viewed [here}(currentcertificate.pdf) 
+<b>Sources Consulted:</b> I have taken action towards gaining proficiency and completed the DataCamp course Finance Fundamentals in Python. A certificate can be viewed [here](currentcertificate.pdf) 
 
 ### Market Basket Analysis
 
