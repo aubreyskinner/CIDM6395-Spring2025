@@ -35,7 +35,7 @@ My strongest competencies include:
 * Naïve Bayes
 * Decision Trees
 
-<b>Sample Work:</b> [CIDM6355](Assignment1/CIDM6355.docx)
+<b>Sample Work:</b> [CIDM6355](CIDM6355.docx)
 
 <b>Sources Consulted:</b>
 
