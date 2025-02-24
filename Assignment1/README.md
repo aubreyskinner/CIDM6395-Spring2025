@@ -37,7 +37,7 @@ My strongest competencies include:
 
 <b>Sample Work:</b> [CIDM6355](CIDM6355.docx)
 
-<b>Sources Consulted:</b>
+<b>Sources Consulted:</b> DataCamp Courses and RapidMiner Documentation
 
 ## Where I Am Weak
 start typing here...
