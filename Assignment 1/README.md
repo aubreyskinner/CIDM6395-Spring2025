@@ -9,7 +9,7 @@ My strongest competencies include:
 * Precision - Recall
 * F1 Score
 
-<b>Sample Work:</b>
+<b>Sample Work:</b> 
 
 <b>Sources Consulted:</b>
 
@@ -33,8 +33,9 @@ My strongest competencies include:
 * Logistic Regression
 * Neural Networks
 * Naïve Bayes
+* Decision Trees
 
-<b>Sample Work:</b>
+<b>Sample Work:</b> [CIDM6355]
 
 <b>Sources Consulted:</b>
 
