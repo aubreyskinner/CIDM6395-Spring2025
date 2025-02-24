@@ -32,7 +32,17 @@ My strongest competencies include:
 <b>Sources Consulted:</b> DataCamp Courses and RapidMiner Documentation
 
 ## Where I Am Weak
-start typing here...
+Areas I need to improve:
+
+### Time Series Forecasting
+
+### Advanced SQL
+* Comfortable with basic SQL, but need to refine complex query-building
+
+### Python
+<b>Sources Consulted:</b> I have taken action towards gaining proficiency and completed the DataCamp course Finance Fundamentals in Python. A certificate can be viewed [here}(currentcertificate.pdf) 
+
+### Market Basket Analysis
 
 ## What I Wish I Knew 
 start typing here...
