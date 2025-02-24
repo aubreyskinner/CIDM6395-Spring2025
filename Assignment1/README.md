@@ -17,7 +17,7 @@ My strongest competencies include:
 * Tableau
 * Power BI
 
-<b>Sample Work:</b>
+<b>Sample Work:</b> [CIDM6312](HW4Submission.pptx)
 
 <b>Sources Consulted:</b>
 
