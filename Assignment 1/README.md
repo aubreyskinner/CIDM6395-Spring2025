@@ -35,7 +35,7 @@ My strongest competencies include:
 * Naïve Bayes
 * Decision Trees
 
-<b>Sample Work:</b> [CIDM6355](https://github.com/aubreyskinner/CIDM6395-Spring2025/Assignment1/HW1-CIDM6355(1).docx)
+<b>Sample Work:</b> [CIDM6355](Assignment1/HW1-CIDM6355(1).docx)
 
 <b>Sources Consulted:</b>
 
