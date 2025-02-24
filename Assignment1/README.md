@@ -9,25 +9,17 @@ My strongest competencies include:
 * Precision - Recall
 * F1 Score
 
-<b>Sample Work:</b> 
-
-<b>Sources Consulted:</b>
-
 ### Dashboard Development
 * Tableau
 * Power BI
 
 <b>Sample Work:</b> [CIDM6312](HW4Submission.pptx)
 
-<b>Sources Consulted:</b>
+<b>Sources Consulted:</b> Data Visualization: Exploring and Explaining with Data by Camm, Cochran, Fry, and Ohlmann
 
 ### Data Cleaning and Preprocessing
 * Handling Missing Data
 * Feature Selection
-
-<b>Sample Work:</b>
-
-<b>Sources Consulted:</b>
 
 ### Predictive Modeling
 * Logistic Regression
