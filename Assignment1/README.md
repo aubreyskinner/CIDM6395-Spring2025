@@ -32,29 +32,39 @@ My strongest competencies include:
 <b>Sources Consulted:</b> DataCamp Courses and RapidMiner Documentation
 
 ## Where I Am Weak
-Areas I need to improve:
+Areas I need to improve and strategies used to bridge the gaps:
 
-### Time Series Forecasting
+### 1. Time Series Forecasting
 
-### Advanced SQL
-* Comfortable with basic SQL, but need to refine complex query-building
+### 2. Advanced SQL
+Comfortable with basic SQL, but need to refine complex query-building
 
-### Python
-<b>Sources Consulted:</b> I have taken action towards gaining proficiency and completed the DataCamp course Finance Fundamentals in Python. A certificate can be viewed [here](currentcertificate.pdf) 
+### 3. Python
+<b>Sources Consulted:</b> I have taken action towards gaining proficiency and completed the DataCamp course Finance Fundamentals in Python. A certificate can be viewed [here.](currentcertificate.pdf) 
 
-### Market Basket Analysis
+### 4. Market Basket Analysis
 
 ## What I Wish I Knew 
-start typing here...
+These are skills I recognize as valuable, but have not yet fully developed:
+
+### 1. Cloud-Based Analytics
+* Azure
+* GCP
+
+### 2. A/B Testing
+* Randomization
+* Sample Sizing
+
+### 3. API in Python
 
 ## Summary Statement and Preparedness 
-start typing here...
+Throughout my coursework and hands-on experience with various skills and tools, I have built a strong foundation in data analytics, model evaluation, predictive modeling, and dashboard development. RapidMiner, R, Tableau, and Power BI have helped shape my proficiency and allowed me to perform complex analyses. I have applied my skills in practical settings by working on projects that involved data cleaning, clustering, and feature selection. Through the utilization of academic research and online courses, I have continuously expanded my knowledge and refined my problem-solving approach. 
 
 ## Why Data Analytics is Integratable with Other Areas
-start typing here...
+Data analytics has an interdisciplinary nature that allows it to be applied across different domains. It can transform raw data into actionable knowledge, making it essential for decision-making and planning. It can seamlessly integrate with emerging technologies, such as cloud computing, cyber security, and system development. 
 
 ## How Data Analytics is Integratable with Other Areas
-start typing here...
+ It is a valuable tool for problem-solving; in finance, it can be used for risk assessment, and in supply chain management, it plays a key role in predicting demand. With advancements in machine learning, data analytics has become increasingly relevant in research, education, and healthcare settings. For example, large datasets can provide insights into disease outbreaks and human behavior. 
 
 ## How Data Analytics is Integratable with My Prior Work
-start typing here...
+My experience in data analytics has allowed me to bridge the gap between insights and real-world applications. For instance, in my work with clustering models, I applied k-means and hierarchical clustering techniques to effectively manage datasets. In predictive modeling, I leveraged logistic regression and neural networks to create accurately forecasted outcomes. 
